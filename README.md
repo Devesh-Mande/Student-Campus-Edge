@@ -36,11 +36,11 @@ Step4- For run the project use following command.
 
 2} python app.py 
 
-#Task for you 🧩🎯🧮
+# Task for you 🧩🎯🧮
 
 Complete the courses from the project and get Placed easily
 
-#Output/Screenshots 🔗
+# Output/Screenshots 🔗
 
 Student Login 👇🏻
 
